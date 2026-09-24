@@ -2,7 +2,7 @@
 
 Screen suppliers against the World Bank Group debarment list: fuzzy names, former names, cross-debarments, change feed. Firms only.
 
-**Try it (free tier, no card):** [https://rapidapi.com/193market/api/world-bank-debarred-firms-screening](https://rapidapi.com/193market/api/world-bank-debarred-firms-screening) · also on [api.market](https://api.market/store/193market/world-bank-debarred-firms-screening)
+**Try it (free tier for evaluation):** [https://rapidapi.com/193market/api/world-bank-debarred-firms-screening](https://rapidapi.com/193market/api/world-bank-debarred-firms-screening) · also on [api.market](https://api.market/store/193market/world-bank-debarred-firms-screening)
 
 Screen a company name against the World Bank Group's list of debarred and cross-debarred firms: matching that ignores legal suffixes, accents and word order, weighs distinctive words over common ones, and checks former names and trading names; sanction basis, dates, cross-debarring bank, registration numbers, and a feed of additions and removals. Firms only.
 
@@ -115,7 +115,7 @@ The full OpenAPI 3 specification is in [`openapi.json`](openapi.json).
 | Plan | Price | Included per month |
 |---|---|---|
 | BASIC | free | a small monthly quota for evaluation |
-| PRO / ULTRA / MEGA | from $49 / month | 1,000+ requests, per-request overage, higher rate limits |
+| PRO / ULTRA / MEGA | from $49 / month | larger monthly quotas, per-request overage, higher rate limits |
 
 Current prices are always on the [RapidAPI pricing page](https://rapidapi.com/193market/api/world-bank-debarred-firms-screening/pricing). Error responses (4xx/5xx) are not charged on api.market.
 
